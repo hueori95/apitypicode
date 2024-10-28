@@ -1,0 +1,5 @@
+pytest
+PyMySQL==1.1.1
+pytest-html==2.1.1
+requests
+requests-oauthlib

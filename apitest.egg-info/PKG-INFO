@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: apitest
+Version: 1.0
+Summary: API Testing
+Home-page: http://localhost:3000/
+Author: huent95
+Author-email: huent995@gmail.com
+Requires-Dist: pytest
+Requires-Dist: PyMySQL==1.1.1
+Requires-Dist: pytest-html==2.1.1
+Requires-Dist: requests
+Requires-Dist: requests-oauthlib
